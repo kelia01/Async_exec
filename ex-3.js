@@ -24,3 +24,4 @@ async function getUserData(userId) {
 }
 
 getUserData('2')
+
